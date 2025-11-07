@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>The Story of Labubu</title>
+</head>
+
+<body style="text-align:center; font-family:Arial; background-color:#fff8f9; color:#444;">
+
+    <h1 style="color:#ff6699;">🐰 The Story of Labubu 🧸</h1>
+    <p>Labubu is a cute little monster created by the artist <strong>Kasing Lung</strong>. 
+       It lives in a fun and magical world full of imagination!</p>
+
+    <!-- Background music -->
+    <audio controls autoplay loop>
+        <source src="https://files.catbox.moe/1lxr0n.mp3" type="audio/mpeg">
+        Your browser does not support audio playback.
+    </audio>
+
+    <!-- Pictures -->
+    <div>
+        <img src="https://i.pinimg.com/564x/ba/6f/0c/ba6f0c15d88f1f9118cf53003d1e3533.jpg" alt="Labubu 1" width="200">
+        <img src="https://i.pinimg.com/564x/b2/aa/21/b2aa2196ffbfc4a7413b2a9ed13c88e1.jpg" alt="Labubu 2" width="200">
+        <img src="https://i.pinimg.com/564x/6a/ce/86/6ace864899f53064b4e17883b0bdb067.jpg" alt="Labubu 3" width="200">
+    </div>
+
+    <p>Labubu has many different looks — sometimes cute, sometimes naughty, 
+       but always full of surprises!</p>
+
+    <!-- Button link -->
+    <a href="https://www.my-labubu-site.com" target="_blank">
+        <button style="background-color:#ff99cc; color:white; border:none; padding:10px 20px; border-radius:8px; font-size:16px; cursor:pointer;">
+            Visit My Website
+        </button>
+    </a>
+
+    <p style="margin-top:30px; font-size:12px; color:#777;">© 2025 The Story of Labubu | Made by Student</p>
+
+</body>
+</html>
